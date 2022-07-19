@@ -1,6 +1,6 @@
 FROM teamvaders/warbot:latest
 
-RUN git clone https://github.com/waruserbot/Plugins.git /root/warbot
+RUN git clone https://github.com/ayamkentaki/Plugins.git /root/warbot
 
 WORKDIR /root/warbot
 
